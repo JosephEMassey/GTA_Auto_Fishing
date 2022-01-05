@@ -1,5 +1,3 @@
-# install https://digi.bib.uni-mannheim.de/tesseract/tesseract-ocr-w64-setup-v5.0.0-alpha.20210811.exe
-
 import numpy as nm
 import pytesseract
 import cv2
