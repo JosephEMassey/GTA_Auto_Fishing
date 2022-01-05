@@ -1,6 +1,6 @@
 # GTA_Auto_Fishing
 
-This script will detect fishing the necessary fishing text and automatically press the appropriate key.
+This script will detect the necessary fishing text and automatically press the appropriate key.
 Currently, only resolution 1920x1080 is supported and must be the main monitor.
 
 # Installation
